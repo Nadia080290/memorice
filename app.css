@@ -17,8 +17,8 @@ html {
   }
   
   body {
-    background: url('./fondo2.png');
-    background-repeat: no-repeat;
+    /* background: url('./fondo2.png');
+    background-repeat: no-repeat; */
     /* Background pattern from Subtle Patterns */
     font: 1.1rem 'Nunito Sans', cursive;
     color: #fff;
